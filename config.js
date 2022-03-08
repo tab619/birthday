@@ -31,21 +31,21 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的奕璇": "./imgs/nothing.jpg",
+        "心爱的奕璇": "./imgs/xinaide.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第四个生日！": "./imgs/nothing.jpg",
+        "第四个生日！": "./imgs/disige.jpeg",
         "我见过你": "./imgs/yangzi.jpeg",
-        "美腻的样子": "./imgs/nothing.jpg",
-        "奇怪的样子": "./imgs/nothing.jpg",
-        "可爱的样子": "./imgs/nothing.jpg",
-        "都是我喜欢的样子": "./imgs/nothing.jpg",
+        "美腻的样子": "./imgs/meini.jpeg","./imgs/meini2.jpg","./imgs/meini3.jpg",
+        "奇怪的样子": "./imgs/qiguai.png",
+        "可爱的样子": "./imgs/keai.jpeg","./imgs/keai.jpg",
+        "都是我喜欢的样子": "./imgs/songxinxin.jpeg",
         "我爱你！": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
         "然后才有力气写论文": "./imgs/nothing.jpg",
-        "和想我！": "./imgs/nothing.jpg",
-        "生日快乐，奕璇~~": "./imgs/nothing.jpg"
+        "和想我！": "./imgs/wo.jpg",
+        "生日快乐，奕璇~~": "./imgs/yangzi.jpeg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
