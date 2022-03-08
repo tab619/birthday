@@ -40,7 +40,7 @@ var config = {
         "奇怪的样子": "./imgs/nothing.jpg",
         "可爱的样子": "./imgs/nothing.jpg",
         "都是我喜欢的样子": "./imgs/nothing.jpg",
-        "我爱你": "./imgs/chuo.gif",
+        "我爱你！": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
         "然后才有力气写论文": "./imgs/nothing.jpg",
