@@ -35,7 +35,7 @@ var config = {
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
         "第四个生日！": "./imgs/nothing.jpg",
-        "这两年来，我见过你": "./imgs/yangzi.jpeg",
+        "我见过你": "./imgs/yangzi.jpeg",
         "美腻的样子": "./imgs/nothing.jpg",
         "奇怪的样子": "./imgs/nothing.jpg",
         "可爱的样子": "./imgs/nothing.jpg",
